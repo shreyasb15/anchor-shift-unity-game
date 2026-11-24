@@ -1,0 +1,6 @@
+{
+  "name": "AnchorShift",
+  "rootNamespace": "AnchorShift",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}

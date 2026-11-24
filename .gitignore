@@ -13,6 +13,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/AnchorShift/[Ll]ibrary/
+/AnchorShift/[Tt]emp/
+/AnchorShift/[Oo]bj/
+/AnchorShift/[Bb]uild/
+/AnchorShift/[Bb]uilds/
+/AnchorShift/[Ll]ogs/
+/AnchorShift/[Uu]ser[Ss]ettings/
 *.log
 
 # Memory Profiler generated files
